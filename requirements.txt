@@ -1,4 +1,4 @@
 qiskit==0.45.0
-numpy==.23.5
+numpy==1.23.5
 matplotlib==3.8.1
 qiskit-ibm-provider==0.7.2
